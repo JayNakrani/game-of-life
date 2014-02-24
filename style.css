@@ -1,0 +1,82 @@
+@charset "utf-8";
+/*----------For Main Page---------*/
+button
+{
+	min-width:70px;
+	min-height:40px;
+}
+#mainWrap
+{
+	z-index:1;
+}
+#tableWrap
+{
+	margin-right:15px;
+	margin-top:15px;
+	margin:auto;
+	padding: 25px;
+}
+#cntrlWrap
+{
+	padding-bottom: 20px;
+	margin-left: 40px;
+	min-height: 145px;
+}
+#adjustWrap
+{
+	float:left;
+}
+#formWrap
+{
+	padding-left:20px;
+	padding-right:20px;
+	margin-top: 16px;
+	margin-top: 16px;
+	float:left;
+}
+#btnWrap
+{
+	padding-left: 60px;
+}
+#displayWrap
+{
+	float:left;
+}
+#textDisplay
+{
+	padding-left:20px;
+	padding-right:20px;
+}
+#symbolicDisplay
+{
+	padding: 20px;
+}
+#helpWrap
+{
+	padding:30px;
+}
+#mainTable
+{
+	font-size:7px;
+	margin:auto;
+}
+#log
+{
+	position: absolute;
+	right: 30px;
+	top: 17px;
+	padding: 15px;
+	background: #CCC;
+}
+.black
+{
+	background-color:#000000;
+}
+.white
+{
+	background-color:#FFFFFF;
+}
+.represent
+{
+	text-align:center;
+}
